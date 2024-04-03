@@ -1,0 +1,16 @@
+{
+  "name": "todo-order-list-aak",
+  "version": "1.0.0",
+  "description": "this todo list created by using typescript,node.js and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AMMAR AHMED KHAN",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
